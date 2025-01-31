@@ -7,6 +7,7 @@ I am a recent software engineering graduate with strong skills in software devel
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/chadi-amara-nebli/)
+- [Portfolio](https://sheedii.github.io/portfolio/)
 - [GitHub](https://github.com/Sheedii)
 - Email: shediamara2019@gmail.com
 
